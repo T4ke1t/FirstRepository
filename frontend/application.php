@@ -20,3 +20,7 @@ $source = [new S('a'), new S('b'), new S('c')];
 $filter = [new S('b'), new S('c'), new S('d')];
 $result = array_diff($source, $filter);
 // $result now contains one instance of S('a');
+$string = "string";
+echo $string;
+$randomNumber = rand(0,10);
+echo $randomNumber;
