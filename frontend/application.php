@@ -24,3 +24,4 @@ $string = "string";
 echo $string;
 $randomNumber = rand(0,10);
 echo $randomNumber;
+// tu toje
