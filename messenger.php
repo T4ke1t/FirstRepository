@@ -1,5 +1,5 @@
 <?php
-function my_serialize(&$arr,$pos)
+function mySerialize(&$arr,$pos)
 {
     $arr = serialize($arr);
 }
